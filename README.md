@@ -1,0 +1,2 @@
+First project for the odin project, what ive learned so far will be used there, 
+havent begun with it yet, but hope to show skills in form of HEAD BODY, paragaphs, titles, insert links and images, making sorted and unsorted list, text as bolt , insert "click"-button
